@@ -1,3 +1,4 @@
+/*-- Start of content */
 body{background-color: black;}
 
 
@@ -6,7 +7,9 @@ h1 {color:white;
     font-family: verdana;
     text-align: center;
     font-size: 50px;
-    font-weight: normal;}
+    font-weight: normal;
+    }
+
 
 h2 {color:white;
     font-family: verdana;
@@ -15,13 +18,42 @@ h2 {color:white;
     font-weight: 300;
     }
 
-.download {color:aquamarine;
-           text-align: center;
-           font-size:16px;}
 
 .guide p{color:gray;
          text-align:center;
-         font-family;verdana;}
+         font-family;verdana;
+        }
+
+/* Hyperlink */
+.download {color:aquamarine;
+           text-align: center;
+           font-size:16px;
+          }
+
+
+/* End of Content */
+
+
+
+/* iPhone Streaming Video */
+.discover video{display: block;
+                margin-left: auto;
+                margin-right: auto;
+               }
+
+/* Tent Image */
+.guide img{display: block;
+           margin-left:auto;
+           margin-right: auto;
+          }
+
+/* iPhone Image */
+.coming img{display:block;
+            position: absolute;
+            margin-top: 130px;
+            left: auto;
+            right: auto;
+           }
 
 
 
