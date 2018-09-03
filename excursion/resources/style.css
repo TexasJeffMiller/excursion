@@ -1,0 +1,27 @@
+body{background-color: black;}
+
+
+
+h1 {color:white;
+    font-family: verdana;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;}
+
+h2 {color:white;
+    font-family: verdana;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 300;
+    }
+
+.download {color:aquamarine;
+           text-align: center;
+           font-size:16px;}
+
+.guide p{color:gray;
+         text-align:center;
+         font-family;verdana;}
+
+
+
